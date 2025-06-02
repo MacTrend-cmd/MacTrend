@@ -1,5 +1,4 @@
-[# MacTrend
-Página web de MacTrend Argentina
+MacTrend Argentina
 !DOCTYPE html>
 <html lang="es">
 <head>
