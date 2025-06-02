@@ -1,4 +1,4 @@
-[# mactrend
+[# MacTrend
 Página web de MacTrend Argentina
 !DOCTYPE html>
 <html lang="es">
